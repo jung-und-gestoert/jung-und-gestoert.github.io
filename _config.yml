@@ -20,16 +20,31 @@
 
 title: jung und gestört
 email: kontakt@jung-und-gestoert.de
-description: >- # this means to ignore newlines until "baseurl:"
-  Selbsthilfegruppe für psychisch Erkrankte im Raum Mannheim
+description: Selbsthilfegruppe für psychisch Erkrankte im Raum Mannheim
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jung-und-gestoert.de" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jung-und-gestoert
+
 
 # Build settings
-theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: BDHU/minimalist@73c2d97168a631f96d92e9964f221ea08c895a08
+
+## Theme config
+logo: /assets/img/logo.png
+sidebar:
+  - name: Datenschutz & Haftungsausschluss
+    link: /about/
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/jung-und-gestoert/jung-und-gestoert.github.io
+
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+# When running locally, we run into the following error —
+# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+# adding this avoids it
+github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
