@@ -94,3 +94,11 @@ Custom styles
 ul.link li + li {
   margin-top: 12px;
 }
+
+.enum-with-icons {
+  display: flex;  
+  justify-content: start; 
+  align-items: center;
+  line-height: 42px;
+  gap: 8px;
+}

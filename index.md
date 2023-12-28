@@ -23,10 +23,13 @@ Wir treffen uns alle zwei Wochen im Gesundheitstreffpunkt Mannheim
 
 TODO
 
-Bei unseren Treffen versuchen wir einfach eine gute Zeit miteinander zu verbringen und Spaß zu haben - das Leben ist schon ernst genug. Zu unseren Aktivitäten gehören:
-- ![Dices](assets/svg/dice.svg) Gesellschaftsspiele (Activity, Kniffel, etc.) 
-- ![Coffee](assets/svg/coffee.svg) Gemeinsame Café und Restaurantbesuche
-- ![Calendar](assets/svg/calendar.svg) Gemeinsamer Besuch von Veranstaltungen wie z. B. Konzerte, Aufführungen, etc.
+Bei unseren Treffen geht es hauptsächlich darum eine gute Zeit miteinander zu verbringen und Spaß zu haben - das Leben ist schon ernst genug. Zu unseren Aktivitäten gehören:
+<ul>
+  <li class="enum-with-icons"><img src="assets/svg/dice.svg" alt="Dices"><span>Gesellschaftsspiele (Activity, Kniffel, etc.)</span></li>
+  <li class="enum-with-icons"><img src="assets/svg/coffee.svg" alt="Coffee"><span>Gemeinsame Café- und Restaurantbesuche</span></li>
+  <li class="enum-with-icons"><img src="assets/svg/calendar.svg" alt="Calendar"><span>Gemeinsamer Besuch von Veranstaltungen</span></li>
+</ul>
+
 
 ## Gruppenregeln
 
