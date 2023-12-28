@@ -7,7 +7,7 @@ layout: default
 
 # Selbsthilfegruppe *jung und gestört* Mannheim
 
-Wir sind eine Gruppe psychisch Erkrankter im Raum Mannheim. Unsere Mitglieder sind im Alter von ca. 25-40 Jahren. Alle unsere Mitglieder haben eine Krankheit aus der Gruppe der affektiven Störungen (Depression, Borderline, etc.). Wir nehmen uns selbst nicht zu ernst - wir treten unserer Krankheit mit einem Lächeln entgegen, denn anders ist es manchmal auch nicht zu ertragen. Wir versuchen aktiv unser Wohlbefinden zu verbessern und ermutigen uns gegenseitig positive Veränderungen in unseren Leben anzustoßen. Hierbei haben wir die Erfahrung gemacht, dass der Austausch mit anderen Betroffenen sehr hilfreich sein kann, da für Personen ohne psychische Erkrankung erlebte Sorgen, Probleme und Gefühlszustände teils nur schwer nachzuvollziehen sind.
+Wir sind eine Gruppe psychisch Erkrankter im Raum Mannheim. Unsere Mitglieder sind im Alter von ca. 25-40 Jahren und haben alle eine Erkrankung aus dem Bereich der affektiven Störungen (Depression, Borderline, etc.). Wir nehmen uns selbst nicht zu ernst - wir treten unserer Krankheit mit einem Lächeln entgegen, denn anders ist es manchmal auch nicht zu ertragen. Wir versuchen aktiv unser Wohlbefinden zu verbessern und ermutigen uns gegenseitig positive Veränderungen in unseren Leben anzustoßen. Hierbei haben wir die Erfahrung gemacht, dass der Austausch mit anderen Betroffenen sehr hilfreich sein kann, da für Personen ohne psychische Erkrankung erlebte Sorgen, Probleme und Gefühlszustände teils nur schwer nachzuvollziehen sind.
 
 Wir tauschen uns zu folgenden Themen aus:
 - Symptome, Erlebnisse, aktuelle Erfolgserlebnisse und Probleme
@@ -24,13 +24,13 @@ Wir treffen uns alle zwei Wochen im Gesundheitstreffpunkt Mannheim
 TODO
 
 Bei unseren Treffen versuchen wir einfach eine gute Zeit miteinander zu verbringen und Spaß zu haben - das Leben ist schon ernst genug. Zu unseren Aktivitäten gehören:
-- Gesellschaftsspiele (Activity, Kniffel, etc.)
-- Gemeinsame Café und Restaurantbesuche
-- Gemeinsamer Besuch von Veranstaltungen wie z. B. Konzerte, Aufführungen, etc.
+- ![Dices](assets/svg/dice.svg) Gesellschaftsspiele (Activity, Kniffel, etc.) 
+- ![Coffee](assets/svg/coffee.svg) Gemeinsame Café und Restaurantbesuche
+- ![Calendar](assets/svg/calendar.svg) Gemeinsamer Besuch von Veranstaltungen wie z. B. Konzerte, Aufführungen, etc.
 
 ## Gruppenregeln
 
-*Depressive halten sich an Absprachen.*
+> Depressive halten sich an Absprachen
 
 ## Interesse geweckt?
 Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Dann freuen wir uns über eine E-Mail von dir an [{{ site.email }}](mailto:{{ site.email }}). Schreib uns einfach kurz wer du bist, wie du auf uns aufmerksam geworden bist und wie wir dich erreichen können. Wir melden uns dann zeitnah bei dir.
