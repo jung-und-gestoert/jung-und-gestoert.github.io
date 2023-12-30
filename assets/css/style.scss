@@ -3,10 +3,7 @@
 
 @import "jekyll-theme-minimalist";
 
-.img-circle {
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 50%; 
+.logo {
     margin-bottom: 10px;
 }
 
@@ -87,6 +84,26 @@
 Custom styles
 */
 
+.color-palette-main {
+  color: #264653;
+}
+
+.color-palette-secondary {
+  color: #2A9D8F;
+}
+
+.color-palette-3 {
+  color: #E9C46A;
+}
+
+.color-palette-4 {
+  color: #F4A261;
+}
+
+.color-palette-5 {
+  color: #E76F51;
+}
+
 .content > p {
   text-align: justify;
 }
@@ -99,6 +116,11 @@ ul.link li + li {
   display: flex;  
   justify-content: start; 
   align-items: center;
-  line-height: 42px;
-  gap: 8px;
+  gap: 16px;
+  margin-bottom: 10px;
+}
+
+.enum-with-icons img{
+  height: 32px;
+  width: 32px
 }
