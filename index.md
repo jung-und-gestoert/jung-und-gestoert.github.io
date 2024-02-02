@@ -37,11 +37,18 @@ Bei unseren Treffen geht es hauptsächlich darum, eine gute Zeit miteinander zu 
 
 > "Depressive halten sich an Absprachen"  
 
-1. Suizidalität wird in der Selbsthilfegruppe grundsätzlich nicht besprochen.
-2. Noch irgendwas?
+1. **Freiwilligkeit**: Die Teilnahme an der Gruppe ist freiwillig. Jede Person kann ausscheiden, wann sie es für richtig hält.
+2. **Selbstbetroffenheit**: Alle Mitglieder sind von der gleichen oder ähnlichen Situation betroffen.
+3. **Selbstverantwortung**: Jedes Mitglied vertritt sich selbst und ist selbst dafür zuständig, wie stark es sich ins Gespräch einbringt.
+Suizidalität wird in der Selbsthilfegruppe grundsätzlich nicht besprochen.
+4. **Verschwiegenheit**: Was in der Gruppe besprochen wird, wird nicht an Außenstehende weitergegeben.
+5. **Zuverlässigkeit**: Die Treffen beginnen und enden zur vereinbarten Zeit: Wer nicht kommen kann, meldet sich bei der Gruppe oder einem Mitglied ab.
+6. Es redet immer nur eine Person
+7. Jede(r) hat das Recht auf eine eigene Meinung. Ansichten und Gefühle werden nicht bewertet.
+8. **Suizidalität** ist ein mögliches Symptom einer Depression, wird aber in der Selbsthilfegruppe grundsätzlich nicht besprochen, da dies für andere Gruppenmitglieder sehr belastend sein kann. Psychiater und Psychotherapeuten können dieses Thema professionell mit Betroffenen besprechen. 
+9. **Die Gruppe entscheidet**: Wichtige Entscheidungen, die die ganze Gruppe betreffen, werden gemeinsam in einem transparenten Prozess erarbeitet und getragen.
 
+Wir geben aufeinander Acht und melden uns gegenseitig den Eindruck des anderen zurück, denn häufig sind Depressive nur schwer selbst in der Lage, ihre eigene Situation realistisch einzuschätzen. **Wichtig:** Jedes Gruppenmitglied trägt für sich selbst Verantwortung! Die Selbsthilfegruppe versteht sich als Ergänzung zu psychiatrischer und psychotherapeutischer Behandlung. Keinesfalls kann die Selbsthilfegruppe professionelle Behandlung ersetzen!
 
 ## Interesse geweckt?
 Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Dann freuen wir uns über eine E-Mail von dir an [{{ site.email }}](mailto:{{ site.email }}). Schreib uns einfach kurz wer du bist, wie du auf uns aufmerksam geworden bist und wie wir dich erreichen können. Wir melden uns dann zeitnah bei dir.
-
-Wir geben aufeinander Acht und melden uns gegenseitig den Eindruck des anderen zurück, denn häufig sind Depressive nur schwer selbst in der Lage, ihre eigene Situation realistisch einzuschätzen. **Wichtig:** Jedes Gruppenmitglied trägt für sich selbst Verantwortung! Die Selbsthilfegruppe versteht sich als Ergänzung zu psychiatrischer und psychotherapeutsicher Behandlung. Keinesfalls kann die Selbsthilfegruppe professionelle Behandlung ersetzen!
