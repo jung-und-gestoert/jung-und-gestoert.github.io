@@ -35,7 +35,9 @@ Bei unseren Treffen geht es hauptsächlich darum, eine gute Zeit miteinander zu 
 
 ## Gruppenregeln
 
-> "Depressive halten sich an Absprachen"  
+> "Depressive halten sich an Absprachen" 
+
+Wir geben aufeinander Acht und melden uns gegenseitig den Eindruck des anderen zurück, denn häufig sind Depressive nur schwer selbst in der Lage, ihre eigene Situation realistisch einzuschätzen. **Wichtig: Jedes Gruppenmitglied trägt für sich selbst Verantwortung! Die Selbsthilfegruppe versteht sich als Ergänzung zu psychiatrischer und psychotherapeutischer Behandlung. Keinesfalls kann die Selbsthilfegruppe professionelle Behandlung ersetzen!**
 
 1. **Freiwilligkeit**: Die Teilnahme an der Gruppe ist freiwillig. Jede Person kann ausscheiden, wann sie es für richtig hält.
 2. **Selbstbetroffenheit**: Alle Mitglieder sind von der gleichen oder ähnlichen Situation betroffen.
@@ -47,8 +49,6 @@ Suizidalität wird in der Selbsthilfegruppe grundsätzlich nicht besprochen.
 7. Jede(r) hat das Recht auf eine eigene Meinung. Ansichten und Gefühle werden nicht bewertet.
 8. **Suizidalität** ist ein mögliches Symptom einer Depression, wird aber in der Selbsthilfegruppe grundsätzlich nicht besprochen, da dies für andere Gruppenmitglieder sehr belastend sein kann. Psychiater und Psychotherapeuten können dieses Thema professionell mit Betroffenen besprechen. 
 9. **Die Gruppe entscheidet**: Wichtige Entscheidungen, die die ganze Gruppe betreffen, werden gemeinsam in einem transparenten Prozess erarbeitet und getragen.
-
-Wir geben aufeinander Acht und melden uns gegenseitig den Eindruck des anderen zurück, denn häufig sind Depressive nur schwer selbst in der Lage, ihre eigene Situation realistisch einzuschätzen. **Wichtig:** Jedes Gruppenmitglied trägt für sich selbst Verantwortung! Die Selbsthilfegruppe versteht sich als Ergänzung zu psychiatrischer und psychotherapeutischer Behandlung. Keinesfalls kann die Selbsthilfegruppe professionelle Behandlung ersetzen!
 
 ## Interesse geweckt?
 Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Dann freuen wir uns über eine E-Mail von dir an [{{ site.email }}](mailto:{{ site.email }}). Schreib uns einfach kurz wer du bist, wie du auf uns aufmerksam geworden bist und wie wir dich erreichen können. Wir melden uns dann zeitnah bei dir.

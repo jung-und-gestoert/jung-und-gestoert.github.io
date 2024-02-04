@@ -8,7 +8,7 @@ permalink: /about/
 
 Bei der Anforderung von Inhalten aus diesem Internetangebot werden Zugriffsdaten gespeichert. Das sind Daten über die Seite, von der aus die Datei angefordert wurde, der Name der angeforderten Datei, das Datum, Uhrzeit und Dauer der Anforderung, die übertragene Datenmenge sowie der Zugriffsstatus (zum Beispiel "Datei übertragen", "Datei nicht gefunden").
 
-Bei der Nutzung des Internetangebotes werden keine personenbezogenen Daten erhoben. Sofern Kontakt zur Selbsthilfegruppe über die angegebenen Kontaktmöglichkeiten aufgenommen wird, so erfolgt die Angabe persönlicher Daten (E-Mail-Adressen, Namen, Anschriften) seitens des Nutzers ausdrücklich auf freiwilliger Basis.
+Bei der Nutzung des Internetangebotes werden keine personenbezogenen Daten erhoben. Sofern Kontakt zur Selbsthilfegruppe über die angegebenen Kontaktmöglichkeiten aufgenommen wird, so erfolgt die Angabe persönlicher Daten (z. B. E-Mail-Adressen, Namen, Anschriften) seitens des Nutzers ausdrücklich auf freiwilliger Basis.
 
 ## Haftungsausschluss
 
