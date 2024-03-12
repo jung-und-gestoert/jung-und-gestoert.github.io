@@ -51,4 +51,4 @@ Suizidalität wird in der Selbsthilfegruppe grundsätzlich nicht besprochen.
 9. **Die Gruppe entscheidet**: Wichtige Entscheidungen, die die ganze Gruppe betreffen, werden gemeinsam in einem transparenten Prozess erarbeitet und getragen.
 
 ## Interesse geweckt?
-Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Dann freuen wir uns über eine E-Mail von dir an [{{ site.email }}](mailto:{{ site.email }}). Schreib uns einfach kurz wer du bist, wie du auf uns aufmerksam geworden bist und wie wir dich erreichen können. Wir melden uns dann zeitnah bei dir.
+Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Dann freuen wir uns über eine E-Mail von dir an [{{ site.email }}](mailto:{{ site.email }}). Schreib uns einfach kurz wer du bist, wie du auf uns aufmerksam geworden bist und wie wir dich erreichen können. Wir melden uns dann zeitnah mit ein paar Infos bei dir.
