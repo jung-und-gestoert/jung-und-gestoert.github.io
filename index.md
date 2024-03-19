@@ -42,7 +42,6 @@ Wir geben aufeinander Acht und melden uns gegenseitig den Eindruck des anderen z
 1. **Freiwilligkeit**: Die Teilnahme an der Gruppe ist freiwillig. Jede Person kann ausscheiden, wann sie es für richtig hält.
 2. **Selbstbetroffenheit**: Alle Mitglieder sind von der gleichen oder ähnlichen Situation betroffen.
 3. **Selbstverantwortung**: Jedes Mitglied vertritt sich selbst und ist selbst dafür zuständig, wie stark es sich ins Gespräch einbringt.
-Suizidalität wird in der Selbsthilfegruppe grundsätzlich nicht besprochen.
 4. **Verschwiegenheit**: Was in der Gruppe besprochen wird, wird nicht an Außenstehende weitergegeben.
 5. **Zuverlässigkeit**: Die Treffen beginnen und enden zur vereinbarten Zeit: Wer nicht kommen kann, meldet sich bei der Gruppe oder einem Mitglied ab.
 6. Es redet immer nur eine Person

@@ -31,7 +31,7 @@ Die unerlaubte Reproduktion oder Weitergabe einzelner Inhalte oder kompletter Se
 ## Impressum
 Selbsthilfegruppe *jung & gestört*  
 c/o Gesundheitstreffpunkt Mannheim  
-Max-Joseph-Straße 1, 68167 Mannheim  
+Max-Joseph-Straße 1, 68167 Mannheim
 
 Copyright © 2023 - {{ "today" | date: "%Y" }} *jung und gestört* Selbsthilfegruppe Mannheim. Alle Rechte vorbehalten.
 
