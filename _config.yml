@@ -33,6 +33,7 @@ remote_theme: BDHU/minimalist@73c2d97168a631f96d92e9964f221ea08c895a08
 
 ## Theme config
 logo: /assets/svg/logo.svg
+favicon: /assets/svg/favicon.svg
 sidebar:
   - name: Datenschutz, Haftungsausschluss & Impressum
     link: /about/
