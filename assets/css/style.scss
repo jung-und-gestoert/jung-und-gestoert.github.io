@@ -125,6 +125,17 @@ ul.link li + li {
   width: 32px
 }
 
+.confetti-button {
+  width: 3rem;
+  cursor: pointer;
+}
+
+.confetti-button:hover {
+  background-color: rgb(224, 220, 220);
+  border-radius: 0.5rem;
+}
+
+
 :root {
   --L-text: 20%;
 }

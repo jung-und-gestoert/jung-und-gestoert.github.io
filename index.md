@@ -51,3 +51,10 @@ Wir geben aufeinander Acht und melden uns gegenseitig den Eindruck des anderen z
 
 ## Interesse geweckt?
 Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Dann freuen wir uns über eine E-Mail von dir an [{{ site.email }}](mailto:{{ site.email }}). Schreib uns einfach kurz wer du bist, wie du auf uns aufmerksam geworden bist und wie wir dich erreichen können. Wir melden uns dann zeitnah mit ein paar Infos bei dir.
+
+Du bist nicht gut drauf? Klick auf den Button für ein bisschen Freude:
+<div>
+    <img class="confetti-button" src="assets/svg/on-button.svg" alt="On Button">
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.3.0/tsparticles.confetti.bundle.min.js"></script>
+<script src="assets/js/confetti.js">
