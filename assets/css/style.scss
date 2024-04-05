@@ -135,6 +135,25 @@ ul.link li + li {
   border-radius: 0.5rem;
 }
 
+.grid-enumeration {
+  display: grid;
+  grid-template-columns: 1fr 7fr;
+  column-gap: 0.75rem;
+  row-gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.grid-enumeration span {
+  align-self: center;
+  word-wrap: break-word;
+}
+
+.icon {
+  align-self: center;
+  justify-self: center;
+  font-size: 2rem;
+}
+
 
 :root {
   --L-text: 20%;

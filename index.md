@@ -8,30 +8,37 @@ Wir sind eine Gruppe psychisch Erkrankter im Raum Mannheim. Unsere Mitglieder si
 
 Wir tauschen uns zu folgenden Themen aus:
 
-<ul>
-  <li class="enum-with-icons"><img src="assets/svg/chart-line.svg" alt="Graph"><span>Symptome psychischer Erkrankungen, aktuelle Themen wie Erfolgserlebnisse und Probleme</span></li>
-  <li class="enum-with-icons"><img src="assets/svg/pills.svg" alt="Pills"><span>Medikamente und nicht-medikamentöse Therapien </span></li>
-  <li class="enum-with-icons"><img src="assets/svg/comments.svg" alt="Comments"><span>Ambulante Psychotherapie</span></li>
-  <li class="enum-with-icons"><img src="assets/svg/section.svg" alt="Section"><span>Sozialgesetzliche Aspekte (Anlaufstellen, berufliche Wiedereingliederung, Schwerbehindertenausweis, etc.)</span></li>
-  <li class="enum-with-icons"><img src="assets/svg/hospital.svg" alt="Hospital"><span>Stationäre Aufenthalte im Zentralinstitut für seelische Gesundheit in Mannheim</span></li>
-</ul>
+<div class="grid-enumeration">
+  <i class="icon fa-solid fa-chart-line color-palette-main"></i>
+  <span>Symptome psychischer Erkrankungen, aktuelle Themen wie Erfolgserlebnisse und Probleme</span>
+  <i class="icon fa-solid fa-pills color-palette-secondary"></i>
+  <span>Medikamente und nicht-medikamentöse Therapien</span>
+  <i class="icon fa-solid fa-comments color-palette-3"></i>
+  <span>Ambulante Psychotherapie</span>
+  <i class="icon fa-solid fa-section color-palette-4"></i>
+  <span>Sozialgesetzliche Aspekte (Anlaufstellen, berufliche Wiedereingliederung, Schwerbehindertenausweis, etc.)</span>
+  <i class="icon fa-solid fa-hospital color-palette-5"></i>
+  <span>Stationäre Aufenthalte im Zentralinstitut für seelische Gesundheit in Mannheim</span>
+</div>
 
 ## Unsere Treffen
 Wir treffen uns alle zwei Wochen im [Gesundheitstreffpunkt Mannheim](https://www.gesundheitstreffpunkt-mannheim.de) in Neckarstadt-Ost:
 
-<ul>
-  <li class="enum-with-icons">
-    <img src="assets/svg/map.svg" alt="Map">
-    <span> Max-Joseph-Str. 1 <br> 68167 Mannheim</span>
-  </li>
-</ul>
-Bei unseren Treffen geht es hauptsächlich darum, eine gute Zeit miteinander zu verbringen und Spaß zu haben - das Leben ist schon ernst genug. Zu unseren Aktivitäten gehören:
-<ul>
-  <li class="enum-with-icons"><img src="assets/svg/dice.svg" alt="Dices"><span>Gesellschaftsspiele (Activity, Kniffel, etc.)</span></li>
-  <li class="enum-with-icons"><img src="assets/svg/pot.svg" alt="Coffee"><span>Gemeinsame Café- und Restaurantbesuche</span></li>
-  <li class="enum-with-icons"><img src="assets/svg/calendar.svg" alt="Calendar"><span>Gemeinsamer Besuch von Veranstaltungen</span></li>
-</ul>
+<div class="grid-enumeration">
+  <i class="icon fa-solid fa-map-location-dot color-palette-main"></i>
+  <span> Max-Joseph-Str. 1 <br> 68167 Mannheim</span>
+</div>
 
+
+Bei unseren Treffen geht es hauptsächlich darum, eine gute Zeit miteinander zu verbringen und Spaß zu haben - das Leben ist schon ernst genug. Zu unseren Aktivitäten gehören:
+<div class="grid-enumeration">
+  <i class="icon fa-solid fa-dice color-palette-main"></i>
+  <span>Gesellschaftsspiele (Activity, Kniffel, etc.)</span>
+  <i class="icon fa-solid fa-mug-saucer color-palette-secondary"></i>
+  <span>Gemeinsame Café- und Restaurantbesuche</span>
+  <i class="icon fa-solid fa-calendar-days color-palette-4"></i>
+  <span>Gemeinsamer Besuch von Veranstaltungen</span>
+</div>
 
 ## Gruppenregeln
 
