@@ -61,7 +61,7 @@ Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Dann fr
 
 Du bist nicht gut drauf? Klick auf den Button für ein bisschen Freude:
 <div>
-    <img class="confetti-button" src="assets/svg/on-button.svg" alt="On Button">
+    <i class="fa-solid fa-power-off confetti-button color-palette-main"></i>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.3.0/tsparticles.confetti.bundle.min.js"></script>
 <script src="assets/js/confetti.js">
