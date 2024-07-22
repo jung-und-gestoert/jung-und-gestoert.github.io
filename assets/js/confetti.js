@@ -38,3 +38,30 @@ document.querySelector('.confetti-button').onclick = () => {
   }
 };
 
+
+
+/**
+ * Sold out sign
+ */
+const drawRandomPoint = ([start, end]) => {
+  const range = end - start;
+  return Math.floor(Math.random() * range + start);
+}
+
+const numberOfStars = 20;
+const area = { x: [15, 110], y: [0, 83]} 
+const template = document.getElementById('star-template')
+for(let i = 0; i < numberOfStars; i++){
+  const x = drawRandomPoint(area.x);
+  const y = drawRandomPoint(area.y);
+
+  const clone = template.cloneNode(true);
+  clone.id = `star-${i}`;
+  clone.style.transform = `scale(0.1) translate(${x}rem,${y}rem)`;
+  
+  const delay = (Math.random()*4).toFixed(3);
+  clone.style.animation = `popup 4s linear ${delay}s infinite`
+  
+  template.after(clone);
+}
+

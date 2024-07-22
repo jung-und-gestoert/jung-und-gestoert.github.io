@@ -60,7 +60,7 @@ Wir geben aufeinander Acht und melden uns gegenseitig den Eindruck des anderen z
 
 {%- include_relative assets/svg/sold-out.svg -%}
 
-Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Dann freuen wir uns über eine E-Mail von dir an [{{ site.email }}](mailto:{{ site.email }}). Schreib uns einfach kurz wer du bist, wie du auf uns aufmerksam geworden bist und wie wir dich erreichen können. Wir melden uns dann zeitnah mit ein paar Infos bei dir.
+Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Aktuell sind bei uns leider alle Plätze in der Gruppe belegt. Sorry! Wir versuchen möglichst viele Leute aufzunehmen, allerdings machen unsere Treffen nur mit einer begrenzten Anzahl an Personen Sinn. Deshalb sind wir aktuell in einer Konsolidierungsphase, in der wir leider keine neuen Mitglieder aufnehmen können (Stand 22.07.24). Falls sich daran was ändert, geben wir es hier bekannt, also schau einfach in einigen Wochen mal wieder rein. Weitere Selbsthilfegruppen findest du unter anderem beim [Gesundheitstreffpunkt Mannheim](https://gesundheitstreffpunkt-mannheim.de/selbsthilfegruppen-von-a-z/), vielleicht ist ja was für dich dabei.
 
 Du bist nicht gut drauf? Klick auf den Button für ein bisschen Freude:
 <div>
