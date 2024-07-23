@@ -48,12 +48,13 @@ const drawRandomPoint = ([start, end]) => {
   return Math.floor(Math.random() * range + start);
 }
 
-const numberOfStars = 20;
-const area = { x: [15, 110], y: [0, 83]} 
+const numberOfStars = 10;
+const area = { x: [15, 110], y: [0, 60]}
+
 const template = document.getElementById('star-template')
 for(let i = 0; i < numberOfStars; i++){
   const x = drawRandomPoint(area.x);
-  const y = drawRandomPoint(area.y);
+  const y = drawRandomPoint(area.y) - (x/6) +20;
 
   const clone = template.cloneNode(true);
   clone.id = `star-${i}`;
