@@ -51,18 +51,17 @@ const drawRandomPoint = ([start, end]) => {
 const numberOfStars = 10;
 const area = { x: [15, 110], y: [0, 60]}
 
-const template = document.getElementById('star-template')
-for(let i = 0; i < numberOfStars; i++){
-  const x = drawRandomPoint(area.x);
-  const y = drawRandomPoint(area.y) - (x/6) +20;
-
-  const clone = template.cloneNode(true);
-  clone.id = `star-${i}`;
-  clone.style.transform = `scale(0.1) translate(${x}rem,${y}rem)`;
+document.querySelectorAll('.star-template').forEach(template => {
+  for(let i = 0; i < numberOfStars; i++){
+    const x = drawRandomPoint(area.x);
+    const y = drawRandomPoint(area.y) - (x/6) +20;
   
-  const delay = (Math.random()*4).toFixed(3);
-  clone.style.animation = `popup 4s linear ${delay}s infinite`
-  
-  template.after(clone);
-}
-
+    const clone = template.cloneNode(true);
+    clone.id = `star-${i}`;
+    clone.style.transform = `scale(0.1) translate(${x}rem,${y}rem)`;
+    
+    const delay = (Math.random()*4).toFixed(3);
+    clone.style.animation = `popup 4s linear ${delay}s infinite`
+    
+    template.after(clone);
+}});

@@ -10,7 +10,7 @@
       <tspan x="32" y="85">OUT</tspan>
     </text>
   </g>
-  <g id="star-template" fill="#f2f2f2" style="transform:scale(0.1) translate(15rem,24rem);animation:popup 4s linear 0s infinite">
+  <g class="star-template" fill="#f2f2f2" style="transform:scale(0.1) translate(15rem,24rem);animation:popup 4s linear 0s infinite">
       <circle r="20" cx="100" cy="100" />
       <path d="M 96,84, 100,0 104,84"/>
       <path d="M 84,96, 0,100 84,104"/>

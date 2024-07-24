@@ -6,6 +6,9 @@ layout: default
 
 Wir sind eine Gruppe psychisch Erkrankter im Raum Mannheim. Unsere Mitglieder sind im Alter von ca. 25-40 Jahren und haben alle eine Erkrankung aus dem Bereich der affektiven Störungen (Depression, Borderline, etc.). Wir nehmen uns selbst nicht zu ernst - wir treten unserer Krankheit mit einem Lächeln entgegen, denn anders ist es manchmal auch nicht zu ertragen. Wir versuchen aktiv unser Wohlbefinden zu verbessern und ermutigen uns gegenseitig positive Veränderungen in unseren Leben anzustoßen. Hierbei haben wir die Erfahrung gemacht, dass der Austausch mit anderen Betroffenen sehr hilfreich sein kann, da für Personen ohne psychische Erkrankung erlebte Sorgen, Probleme und Gefühlszustände teils nur schwer nachzuvollziehen sind.
 
+{%- include_relative assets/svg/sold-out.svg -%}
+*Aktuell sind leider alle Plätze in unserer Selbsthilfegruppe belegt!* [Warum?](#interesse-geweckt)
+
 Wir tauschen uns zu folgenden Themen aus:
 
 <div class="grid-enumeration">
