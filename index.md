@@ -6,9 +6,6 @@ layout: default
 
 Wir sind eine Gruppe psychisch Erkrankter im Raum Mannheim. Unsere Mitglieder sind im Alter von ca. 25-40 Jahren und haben alle eine Erkrankung aus dem Bereich der affektiven Störungen (Depression, Borderline, etc.). Wir nehmen uns selbst nicht zu ernst - wir treten unserer Krankheit mit einem Lächeln entgegen, denn anders ist es manchmal auch nicht zu ertragen. Wir versuchen aktiv unser Wohlbefinden zu verbessern und ermutigen uns gegenseitig positive Veränderungen in unseren Leben anzustoßen. Hierbei haben wir die Erfahrung gemacht, dass der Austausch mit anderen Betroffenen sehr hilfreich sein kann, da für Personen ohne psychische Erkrankung erlebte Sorgen, Probleme und Gefühlszustände teils nur schwer nachzuvollziehen sind.
 
-{%- include_relative assets/svg/sold-out.svg -%}
-*Aktuell sind leider alle Plätze in unserer Selbsthilfegruppe belegt!* [Warum?](#interesse-geweckt)
-
 Wir tauschen uns zu folgenden Themen aus:
 
 <div class="grid-enumeration">
@@ -60,8 +57,6 @@ Wir geben aufeinander Acht und melden uns gegenseitig den Eindruck des anderen z
 9. **Die Gruppe entscheidet**: Wichtige Entscheidungen, die die ganze Gruppe betreffen, werden gemeinsam in einem transparenten Prozess erarbeitet und getragen.
 
 ## Interesse geweckt?
-
-{%- include_relative assets/svg/sold-out.svg -%}
 
 Du hast eine psychische Erkrankung und würdest uns gerne kennen lernen? Aktuell sind bei uns leider alle Plätze in der Gruppe belegt. Sorry! Wir versuchen möglichst viele Leute aufzunehmen, allerdings machen unsere Treffen nur mit einer begrenzten Anzahl an Personen Sinn. Deshalb sind wir aktuell in einer Konsolidierungsphase, in der wir leider keine neuen Mitglieder aufnehmen können (Stand 22.07.24). Falls sich daran was ändert, geben wir es hier bekannt, also schau einfach in einigen Wochen mal wieder rein. Weitere Selbsthilfegruppen findest du unter anderem beim [Gesundheitstreffpunkt Mannheim](https://gesundheitstreffpunkt-mannheim.de/selbsthilfegruppen-von-a-z/), vielleicht ist ja was für dich dabei.
 
