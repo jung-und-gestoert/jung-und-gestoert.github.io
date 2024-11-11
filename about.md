@@ -4,11 +4,31 @@ title: About
 permalink: /about/
 ---
 
-## Datenschutz
+## Datenschutzhinweise gemäß Art. 13 DSGVO
 
-Bei der Anforderung von Inhalten aus diesem Internetangebot werden Zugriffsdaten gespeichert. Das sind Daten über die Seite, von der aus die Datei angefordert wurde, der Name der angeforderten Datei, das Datum, Uhrzeit und Dauer der Anforderung, die übertragene Datenmenge sowie der Zugriffsstatus (zum Beispiel "Datei übertragen", "Datei nicht gefunden").
+### Verantwortliche Stelle
+jung & gestört  
+c/o Gesundheitstreffpunkt Mannheim  
+Max-Joseph-Str. 1, 68167 Mannheim
 
-Bei der Nutzung des Internetangebotes werden keine personenbezogenen Daten erhoben. Sofern Kontakt zur Selbsthilfegruppe über die angegebenen Kontaktmöglichkeiten aufgenommen wird, so erfolgt die Angabe persönlicher Daten (z. B. E-Mail-Adressen, Namen, Anschriften) seitens des Nutzers ausdrücklich auf freiwilliger Basis.
+Bei Fragen zum Datenschutz stehen wir Ihnen unter [kontakt@jung-und-gestoert.de](mailto:kontakt@jung-und-gestoert.de) oder unter der oben angegebenen postalischen Anschrift zur Verfügung.
+
+### Datenverarbeitung auf unserer Webseite und weiteren Online-Angeboten
+
+Bei Aufruf unserer Webseite werden zur Analyse von Fehlern und Sicherheitsvorfällen Logfiles erstellt. Diese bleiben nur für einige Tage bis Wochen gespeichert und werden anschließend automatisch gelöscht.
+
+Für das Hosting unserer Webseite verwenden wir den Dienst *Github Pages* der GitHub Inc. Die Speicherung der Logfiles erfolgt dort.
+
+### Betroffenenrechte
+Wenn wir personenbezogene Daten von Ihnen verarbeiten, haben Sie folgende Betroffenenrechte:
+* ein Recht auf Auskunft über die verarbeiteten Daten und auf Kopie,
+* ein Berichtigungsrecht, wenn wir falsche Daten über Sie verarbeiten,
+* ein Recht auf Löschung, es sei denn, dass noch Ausnahmen greifen, warum wir die Daten noch speichern, also zum Beispiel Aufbewahrungspflichten oder Verjährungsfristen
+* ein Recht auf Einschränkung der Verarbeitung,
+* ein jederzeitiges Recht, Einwilligungen in die Datenverarbeitung zu widerrufen,
+* ein Widerspruchsrecht gegen eine Verarbeitung im öffentlichen oder bei berechtigtem Interesse,
+* ein Recht auf Datenübertragbarkeit,
+* ein Beschwerderecht bei einer Datenschutz-Aufsichtsbehörde, wenn Sie finden, dass wir Ihre Daten nicht ordnungsgemäß verarbeiten. Für die Selbsthilfegruppe *jung und gestört* ist der Landesbeauftragte für den Datenschutz und die Informationsfreiheit in Baden-Württemberg zuständig. Wenn Sie sich in einem anderen Bundesland oder nicht in Deutschland aufhalten, können Sie sich aber auch an die dortige Datenschutzbehörde wenden.
 
 ## Haftungsausschluss
 
@@ -34,4 +54,3 @@ c/o Gesundheitstreffpunkt Mannheim
 Max-Joseph-Straße 1, 68167 Mannheim
 
 Copyright © 2023 - {{ "today" | date: "%Y" }} *jung und gestört* Selbsthilfegruppe Mannheim. Alle Rechte vorbehalten.
-
